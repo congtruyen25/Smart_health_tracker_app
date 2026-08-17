@@ -12,31 +12,31 @@ The application allows users to record health measurements, monitor historical d
 ### Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="250"/>
+  <img src="D:\smart_health_tracker\screenshots\Screenshot 2026-08-17 104205.png" width="250"/>
 </p>
 
 ### Health Tracking
 
 <p align="center">
-  <img src="screenshots/add-measurement.png" width="250"/>
-  <img src="screenshots/health-history.png" width="250"/>
+  <img src="screenshots/Screenshot 2026-08-17 104322.png" width="250"/>
+  <img src="D:\smart_health_tracker\screenshots\Screenshot 2026-08-17 104408.png" width="250"/>
   <img src="screenshots/health-statistics.png" width="250"/>
 </p>
 
 ### Health Analysis & Monitoring
 
 <p align="center">
-  <img src="screenshots/health-analysis.png" width="250"/>
-  <img src="screenshots/health-trend.png" width="250"/>
-  <img src="screenshots/health-thresholds.png" width="250"/>
+  <img src="D:\smart_health_tracker\screenshots\Screenshot 2026-08-17 110345.png" width="250"/>
+  <img src="D:\smart_health_tracker\screenshots\Screenshot 2026-08-17 110157.pngg" width="250"/>
+  <img src="D:\smart_health_tracker\screenshots\Screenshot 2026-08-17 110157.png" width="250"/>
 </p>
 
 ### Profile & Reminders
 
 <p align="center">
-  <img src="screenshots/personal-information.png" width="250"/>
-  <img src="screenshots/reminders.png" width="250"/>
-  <img src="screenshots/health-report.png" width="250"/>
+  <img src="D:\smart_health_tracker\screenshots\Screenshot 2026-08-17 104510.png" width="250"/>
+  <img src="D:\smart_health_tracker\screenshots\Screenshot 2026-08-17 105959.png" width="250"/>
+  <img src="D:\smart_health_tracker\screenshots\Screenshot 2026-08-17 110841.png" width="250"/>
 </p>
 
 ---
