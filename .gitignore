@@ -1,0 +1,38 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter generated
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IntelliJ / Android Studio
+*.iml
